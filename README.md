@@ -1,5 +1,4 @@
-# my-vscode-colors
-Personal vscode settings
+
 {
     "workbench.startupEditor": "newUntitledFile",
     //"editor.fontFamily": "JetBrainsMono NF",
