@@ -1,0 +1,107 @@
+
+{
+    "editor.lineNumbers": "relative",
+    "editor.fontFamily": "FiraCode NF",
+    // "editor.fontFamily": "Iosevka",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 17,
+    "editor.letterSpacing": 0,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "500",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 2,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "trailing",
+    "editor.tabSize": 4,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.guides.indentation": true,
+    "editor.bracketPairColorization.enabled": true,
+    "php.validate.executablePath": "/usr/bin/php7",
+    "solidity.enabledAsYouTypeCompilationErrorCheck": false,
+    "thunder-client.codeSnippetLanguage": "cs-httpclient",
+    "workbench.productIconTheme": "material-product-icons",
+    "editor.tokenColorCustomizations": {
+
+        "variables": "#fcfcfc",
+        "[Gruvbox]": {
+            "strings": "#8ec07c",
+            "types": "#fabd2f",
+            "functions": "#b8bb26",
+            "keywords": "#e96a5c"
+        },
+        "[Gruvbox Dark (Medium)]": {
+            "strings": "#8ec07c",
+            "types": "#fabd2f",
+            "functions": "#b8bb26",
+            "keywords": "#fe8019",
+            "textMateRules": [
+                {
+                    "scope": "variable.language",
+                    "settings": {
+                        "fontStyle": "bold",
+                        "foreground": "#83a598"
+                    }
+                },
+                {
+                    "scope": "keyword.control",
+                    "settings": {
+                        "foreground": "#e96a5c",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "entity.other.attribute-name",
+                    "settings": {
+                        "fontStyle": "bold",
+                    }
+                },
+            ]
+        },
+
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "extensions.ignoreRecommendations": true,
+    "window.zoomLevel": 1,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedClassConstants": false,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.semanticHighlighting.enabled": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#1d2021", //"#1d2021",
+        "editor.background": "#1d2021",
+        "sideBar.background": "#1d2021",
+        "sideBar.foreground": "#dcdcdc",
+        "editorLineNumber.foreground": "#dcdcdc",
+        "sideBarSectionHeader.background": "#1d2021",
+        "minimap.background": "#1d2021",
+        "tab.activeBorder": "#dcdcdc",
+        "editorGutter.background": "#1d2021",
+        "terminal.background": "#1d2021",
+        "tab.inactiveForeground": "#dcdcdc",
+        "tab.inactiveBackground": "#1d2021",
+        "[Gruvbox]": {
+            "editorLineNumber.activeForeground": "#fabd2f",
+            "editorBracketHighlight.foreground1": "#e96a5c",
+            "editorBracketHighlight.foreground2": "#e96a5c",
+            "editorBracketHighlight.foreground3": "#e96a5c",
+            "editorBracketHighlight.foreground4": "#e96a5c",
+            "editorBracketHighlight.foreground5": "#e96a5c",
+        },
+        "[Gruvbox Dark (Medium)]": {
+            "editorLineNumber.activeForeground": "#fabd2f",
+            "editorBracketHighlight.foreground1": "#e96a5c",
+            "editorBracketHighlight.foreground2": "#e96a5c",
+            "editorBracketHighlight.foreground3": "#e96a5c",
+            "editorBracketHighlight.foreground4": "#e96a5c",
+            "editorBracketHighlight.foreground5": "#e96a5c",
+        }
+
+
+    },
+    "workbench.colorTheme": "Gruvbox Dark (Medium)"
