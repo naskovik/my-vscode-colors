@@ -27,11 +27,31 @@
     "editor.tokenColorCustomizations": {
 
         "variables": "#fcfcfc",
+       "[Visual Gruvbox (Medium Dark)]": {
+            "functions": "#8ec07c",
+            "types": "#fabd2f",
+            "keywords": "#f57878",
+            "strings": "#b8bb26",
+        },
         "[Gruvbox]": {
             "strings": "#8ec07c",
             "types": "#fabd2f",
+            "keywords": "#f57878",
             "functions": "#b8bb26",
-            "keywords": "#e96a5c"
+            "variables": "#83a598"
+        },
+        "[Another Gruvbox Theme]": {
+            "strings": "#8ec07c",
+            "types": "#fabd2f",
+            "keywords": "#f57878",
+            "functions": "#b8bb26"
+        },
+        "[Gruvbox Dark Hard-flymin]": {
+            "strings": "#8ec07c",
+            "types": "#fabd2f",
+            "keywords": "#f57878",
+            "functions": "#b8bb26",
+            "variables": "#83a598"
         },
         "[Gruvbox Dark (Medium)]": {
             "strings": "#8ec07c",
